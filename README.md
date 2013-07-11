@@ -63,7 +63,9 @@ Example Code:
 
 Note: Event params are to be stored in a NSDictionary object. Numeric and boolean parameters must be wrapped inside a NSNumber object, and similarly, datetime parameters are to be represented as NSDate objects.
 
-For a full list of the events that can be tracked, visit the [Sogamo website](http://www.sogamo.com)
+For a full list of events that can be tracked, please refer to 'Get Code' in the Sogamo Dashboard. [Under Games\List Of Games\My Applications (account must have at least one game)]
+
+*If you do not have an account, you can use the demo at [Sogamo website](http://www.sogamo.com)
 
 ## Sending Data ##
 Event Data is _flushed_ (i.e transmitted) to the Sogamo server at several points:
